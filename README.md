@@ -1,5 +1,8 @@
 ## Hi, I'm Anthonny
 
+Building MChan, anonymous community infrastructure for 2.2k active UM students.
+Co-founded the UM Engineering Year 1 group (578 members).
+
 First-year electrical engineering student at Universiti Malaya. I build
 technical software and systems, usually dealing with infrastructure and
 automation, and I prefer small and simple systems over elaborate ones.
@@ -8,11 +11,11 @@ automation, and I prefer small and simple systems over elaborate ones.
 
 - **[MChan](https://mchan.fyi/)**: an anonymous imageboard for Malaysian
   university students. Rust (Tokio, Axum, Askama, SQLx, SQLite), human
-  moderation, and a Telegram bridge serving eight UM confession channels with
-  about 2.2k active members. I lead its system design.
+  moderation, and a Telegram bridge serving eight UM confession channels. I
+  lead its system design.
   [Source](https://github.com/MChanTeam/mchan-core).
-- **UM Engineering Year 1 group**: a cross-department community I co-founded,
-  578 members. I lead the dev team.
+- **UM Engineering Year 1 group**: a cross-department community I co-founded.
+  I lead the dev team.
 
 ### Before
 
